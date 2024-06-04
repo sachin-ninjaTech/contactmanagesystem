@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+body{
+    font-family: 'Ubuntu' , sans-serif!important;
+    background-color: #eee8e4!important;
+}
+.img-icon{
+    width: 165px;
+    height: 165px;
+    border-radius: 50%;
+}
